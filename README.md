@@ -36,10 +36,15 @@ Used selected actions from the [UCF50 dataset](https://www.crcv.ucf.edu/data/UCF
 **Input Shape:** (30 or 45, 225)
 
 **Model:**
-    LSTM Layer (128 units)
+    1st LSTM Layer (128 units)
+    
     Dropout
-    LSTM Layer (64 units)
+    
+    2nd LSTM Layer (64 units)
+    
+    Fully Coonected Layers-
     Dense (32 units)
+    
     Dense (number of classes = 3) with Softmax
 
 ---
