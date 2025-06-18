@@ -33,10 +33,9 @@ Used selected actions from the [UCF50 dataset](https://www.crcv.ucf.edu/data/UCF
 
 ## 🧠 Model Architecture
 
-```text
-Input Shape: (30 or 45, 225)
+**Input Shape:** (30 or 45, 225)
 
-Model:
+**Model:**
     LSTM Layer (128 units)
     Dropout
     LSTM Layer (64 units)
