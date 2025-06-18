@@ -102,6 +102,7 @@ Used selected actions from the [UCF50 dataset](https://www.crcv.ucf.edu/data/UCF
 
 
 **License**
+
 This project is licensed under the MIT License.
 
 
