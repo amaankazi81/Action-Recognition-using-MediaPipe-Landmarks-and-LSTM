@@ -57,11 +57,11 @@ You can run this project directly in Google Colab — no setup required!
 
 - Open the notebook in Colab
   
-📔 Click here to Run in Colab:
+    📔 Click here to Run in Colab:
 
-  [**LSTM (30, 225) Model**](https://colab.research.google.com/drive/1wUnjqtoo_IaevqSaxQH2dekszx7PZWG_?usp=sharing)
+      [**LSTM (30, 225) Model**](https://colab.research.google.com/drive/1wUnjqtoo_IaevqSaxQH2dekszx7PZWG_?usp=sharing)
 
-  [**LSTM (45, 225) MOdel**](https://colab.research.google.com/drive/11JM7CIZq-6QOBbZ3P9L7kuuzaDWsiJsu?usp=sharing)
+      [**LSTM (45, 225) MOdel**](https://colab.research.google.com/drive/11JM7CIZq-6QOBbZ3P9L7kuuzaDWsiJsu?usp=sharing)
 
 - Follow the cells step by step
 
