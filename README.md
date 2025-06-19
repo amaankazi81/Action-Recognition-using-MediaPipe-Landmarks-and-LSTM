@@ -80,22 +80,22 @@ You can run this project directly in Google Colab — no setup required!
 
 ## 🛠 Tech Stack
 
-    - Python
+  - **Python**
 
-    - OpenCV
+  - **OpenCV**
 
-    - MediaPipe
+  - **MediaPipe**
 
-    - NumPy
+  - **NumPy**
 
-    - TensorFlow / Keras
+  - **TensorFlow / Keras**
 
-    - UCF50 Dataset
+  - **UCF50 Dataset**
 
 
 ## 📊 Results
 
-| Sequence Shape | Accuracy |
+| **Sequence Shape** | **Accuracy** |
 | -------------- | -------- |
 | (30, 225)      | 96.35%   |
 | (45, 225)      | 94.83%   |
