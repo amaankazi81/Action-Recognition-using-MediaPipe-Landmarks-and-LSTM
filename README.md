@@ -54,7 +54,7 @@ Used selected actions from the [UCF50 dataset](https://www.crcv.ucf.edu/data/UCF
 ## 🚀 How to Run
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/action-recognition-lstm.git
+    git clone https://github.com/amaankazi81/Action-Recognition-using-MediaPipe-Landmarks-and-LSTM.git
     cd action-recognition-lstm
 
 2. **Setup Environment:**
