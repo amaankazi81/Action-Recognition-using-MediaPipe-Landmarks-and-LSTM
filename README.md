@@ -52,30 +52,27 @@ Used selected actions from the [UCF50 dataset](https://www.crcv.ucf.edu/data/UCF
 ---
 
 ## 🚀 How to Run
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/amaankazi81/Action-Recognition-using-MediaPipe-Landmarks-and-LSTM.git
-    cd action-recognition-lstm
 
-2. **Setup Environment:**
-    ```bash
-    pip install -r requirements.txt
+You can run this project directly in Google Colab — no setup required!
 
-3. **Prepare Dataset:**
-  - Download and extract UCF50 dataset
+- Open the notebook in Colab
+📔 Click here to Run in Colab
 
-  - Modify selected_actions = ['TaiChi', 'JumpingJack', 'Pushups']
+- Follow the cells step by step
 
-  - Run landmark_extraction.py to extract and save .npy landmark files
+- Select Action you want to train
 
-4. **Train the Model:**
-    ```bash
-    python train_model.py
+- Extract landmarks using MediaPipe
 
-5. **Predict a Video:**
-    ```bash
-    sequence = process_video('your_video.avi')
-    prediction = model.predict(sequence)
+- Train the LSTM model
+
+- Predict on new videos
+
+- Upload your own video (optional)
+    Use the file upload option in Colab to test on new videos.
+
+- ℹ️ Make sure to select GPU Runtime in Colab:
+    Runtime > Change Runtime Type > Hardware Accelerator: GPU
 
 
 ## 🛠 Tech Stack
